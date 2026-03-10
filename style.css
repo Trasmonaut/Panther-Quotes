@@ -36,6 +36,8 @@ body{
     height: 100%;
     overflow: hidden;
     background-image: url("assets/background.png");
+    background-size: cover;
+    background-position: center;
 }
 
 .title-container{
